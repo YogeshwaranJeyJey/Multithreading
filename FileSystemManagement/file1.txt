@@ -1,0 +1,21 @@
+This is line 1: Welcome to the buffer pool system.
+This is line 2: The quick brown fox jumps over the lazy dog.
+This is line 3: Buffer management is key to database systems.
+This is line 4: Page replacement uses LRU in this simulation.
+This is line 5: Each page holds 4KB of data.
+This is line 6: Dirty pages are written back before eviction.
+This is line 7: Cache hits improve performance.
+This is line 8: Cache misses trigger disk reads.
+This is line 9: Consistency must be maintained with dirty flags.
+This is line 10: This is the end of demo content.
+
+This is line 11: Filling more lines to exceed one page.
+This is line 12: More sample content to trigger buffer swapping.
+This is line 13: You can modify these lines as needed.
+This is line 14: Add more lines to test reading different pages.
+This is line 15: Simulate multiple accesses and monitor LRU updates.
+This is line 16: The buffer pool size can be adjusted.
+This is line 17: Try writing new data and setting dirty flag.
+This is line 18: Ensure writes go back to disk properly.
+This is line 19: Watch how LRU handles frequently used pages.
+This is line 20: Congratulations on building your own memory manager!
