@@ -1,0 +1,1 @@
+HelloInserted msg! by write())
